@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my GitHub <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Welcome to my GitHub</h1>
 
 
 <p align="center">
