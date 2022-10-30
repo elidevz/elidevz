@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my GitHub</h1>
+<h1 align="center">👋 Welcome to my GitHub<img src="https://github.com/kirbgobrr/kirbgobrr/blob/main/baller.png?raw=true" width="35"></h1></h1>
 
 
 <p align="center">
