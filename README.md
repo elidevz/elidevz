@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Stop+Posting+About+Baller;Massive+Nerd&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Stop+Posting+About+BALLER;Massive+Nerd&center=true&width=500&height=50"></a>
 </p>
 
 ### 🛠 &nbsp;Experienced In
