@@ -19,9 +19,9 @@
 ### ⚙💃 &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/kirbgobrr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirbgobrr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirbgobrr&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/elidevz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elidevz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elidevz&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
